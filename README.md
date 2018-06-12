@@ -1,4 +1,4 @@
-# Sandpiles :helicopter:
+<img src="docs/imgs/sandpiles.svg" alt="Sandpiles">
 
 ## Overview :eyes:
 
